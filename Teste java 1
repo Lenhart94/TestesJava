@@ -9,3 +9,14 @@ const siteProps = {
   twitter: "microsoft",
   youTube: "Code",
 };
+
+/* add an amazing animation to the social icons */
+const socialIcons = document.querySelectorAll(".social-icon");
+socialIcons.forEach((icon) => {
+  icon.addEventListener("mouseover", () => {
+    icon.classList.add("animate__animated", "animate__rubberBand");
+  });
+  icon.addEventListener("mouseout", () => {
+    icon.classList.remove("animate__animated", "animate__rubberBand");
+  });
+});
