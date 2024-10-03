@@ -1,0 +1,6 @@
+GitHub Copilot Enteprise
+
+O GitHub Copilot Enterprise permite que os desenvolvedores gerem resumos de pull requests com base nas alterações de código. 
+Docsets são coleções personalizadas privadas de código interno e documentação adaptadas às necessidades e fluxos de trabalho específicos das organizações.
+O gerenciamento de docset do GitHub Copilot Enterprise pode ajudar você a encontrar as respostas que procura e apresentá-las sucintamente.
+ Por exemplo, o gerenciamento de docset do GitHub Copilot Enterprise pode responder a perguntas específicas sobre o uso de uma biblioteca ou estrutura específica, para que você não precise pesquisar em todo o docset.
