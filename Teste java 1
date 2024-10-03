@@ -1,0 +1,11 @@
+const siteProps = {
+  name: "Mateus Lenhart",
+  title: "Web Designer & Content Creator",
+  email: "mateus.lenhart84@gmail.com",
+  gitHub: "microsoft",
+  instagram: "microsoft",
+  linkedIn: "mateus-lenhart-3550b513a/",
+  medium: "",
+  twitter: "microsoft",
+  youTube: "Code",
+};
